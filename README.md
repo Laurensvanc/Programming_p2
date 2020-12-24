@@ -1,2 +1,2 @@
 # Programming_p2
-period2
+This is my repository for assignments I got from Inholland Informatics.
